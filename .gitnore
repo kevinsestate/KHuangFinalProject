@@ -1,0 +1,19 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.launch
+*.mk
+*.bin
+*.hex
+
+# IDE files
+.cproject
+.project
+.mxproject
+.settings/
